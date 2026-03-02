@@ -17,7 +17,7 @@ I like transforming ambiguous problems into systems that feel simple and solve r
 
 ### Side Projects
 
-In my spare time, I build products that solve problems I care about, mostly for personal use, but that hopefully will grow into tools for broader audiences:
+I enjoy building products that solve problems I care about, mostly for personal use, but that hopefully will grow into tools for broader audiences:
 
 - **[Personal Finance App](https://github.com/tiziaco/personal-finance-app)** - AI-powered personal finance application that automatically categorizes and analyzes transactions using specialized LangGraph agents. Surfaces insights on spending patterns, recurring subscriptions, trends, and anomalies. FastAPI backend with Next.js frontend, featuring Grafana dashboards for analytics and GDPR compliance.
 - **[IntelliTrader](https://github.com/tiziaco/intelli-trader)** - Event-driven algorithmic trading framework for backtesting and live execution. Built with Python, featuring multi-strategy support, risk management, portfolio tracking, and SQL-based data pipeline.
